@@ -94,15 +94,8 @@ So here's one for you:
 ---
 
 # 🌐 Impressing Enough?:
-**Let's connect on LinkedIn**: <div align="left">
-  <a href="https://linkedin.com/in/farah-ibrar-a013b51a9">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn Logo" />
-  </a>
-</div>
+**Let's connect on LinkedIn**: [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn Logo" />](https://linkedin.com/in/farah-ibrar-a013b51a9) &nbsp;&nbsp;&nbsp; **Check out my Tableau for more interesting Vizzes**: [<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau Icon" height="40">](https://public.tableau.com/app/profile/farah.ibrar/vizzes)
 
-**Check out my Tableau for more inetersting Vizzes**: 
-
-[<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau Icon" height="40">](https://public.tableau.com/app/profile/farah.ibrar/vizzes)
 
 ---
 
@@ -113,5 +106,3 @@ So here's one for you:
 
 ---
 [![Profile views](https://visitcount.itsvg.in/api?id=FarahIbrar&icon=0&color=6)](https://visitcount.itsvg.in)
-
-###
