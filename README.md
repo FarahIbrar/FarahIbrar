@@ -78,6 +78,23 @@ So here's one for you:
 </div>
 <br>
 
+# 📊 GitHub Stats:
+
+<div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=FarahIbrar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="margin-right: 20px;" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarahIbrar&theme=algolia&hide_border=false" alt="GitHub Streak Stats" />
+</div>
+
+<p align="center" style="margin-bottom: 40px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarahIbrar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
+<div align="center" style="margin-top: 40px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarahIbrar&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&hide_title=true" style="width: 100%; height: 300px;" alt="Contribution Graph" />
+</div>
+
+
+
 
 A cool fact about me: I am fluent in 4 languages—English, Urdu, Punjabi, and Hindi. Additionally, I was awarded the "Best Handwriting" award at the state level in Pakistan in an Urdu competition.
 
