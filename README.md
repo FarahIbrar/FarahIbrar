@@ -1,4 +1,4 @@
-![Farah Ibrar's Github Banner](https://github.com/FarahIbrar/FarahIbrar/blob/main/Github%20Poster.png)
+![Farah Ibrar's Github Banner](https://github.com/FarahIbrar/FarahIbrar/blob/main/Github%20Poster%20-%20Farah%20Ibrar.png)
 
 # 💫 About Me:
 I'm Farah Ibrar, originally from the United Kingdom. I hold a BSc in Biomedical Sciences (Hons) and recently completed my MSc in Biomedical Sciences (Immunology) from the University of Westminster, London.
