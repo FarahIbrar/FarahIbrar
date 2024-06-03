@@ -49,7 +49,7 @@ Since then, I have been actively enhancing my skills in data and technology. Cur
   <div>
 
 ---
-    
+
 # ✨ Personal Ineterests:
 I advocate for a healthy lifestyle and enjoy playing badminton and cricket, cooking, reading about AI and its applications, and volunteering at student events. With a dynamic personality, I love keeping myself busy—I thrive on continuous learning and new challenges. In line with my passion for growth and inspiration, I often turn to motivational quotes to keep me focused and driven. 
 
@@ -59,64 +59,59 @@ So here's one for you:
 
 ---
 
-
 # 📊 GitHub Stats:
+
+<!-- Container for the entire content -->
+<div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+
+  <!-- Languages section centered -->
+  <div style="width: 100%; display: flex; justify-content: center; margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarahIbrar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  </div>
+
+  <!-- Stats and Streak side by side -->
 <div style="display: flex; align-items: center; gap: 100px;">
   <img src="https://github-readme-stats.vercel.app/api?username=FarahIbrar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarahIbrar&theme=algolia&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarahIbrar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
-
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarahIbrar&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&hide_title=true" width="1500" height="300" alt="activity-graph graph" />
-</div>
-<br>
-
-# 📊 GitHub Stats:
-
-<div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarahIbrar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="margin-right: 20px;" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarahIbrar&theme=algolia&hide_border=false" alt="GitHub Streak Stats" />
+  <!-- Contribution graph -->
+  <div style="width: 80%; margin-bottom: 40px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarahIbrar&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&hide_title=true" style="width: 100%; height: auto;" alt="Contribution Graph" />
+  </div>
+  
 </div>
 
-<p align="center" style="margin-bottom: 40px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarahIbrar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
+---
 
-<div align="center" style="margin-top: 40px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarahIbrar&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&hide_title=true" style="width: 100%; height: 300px;" alt="Contribution Graph" />
+# 😎 Fun Facts About Me: 
+- **Multilingual**: Fluent in 4 languages—English, Urdu, Punjabi, and Hindi.
+- **Achievements**: Best Progress Award (2019 & 2020), Rochdale School's Badminton Championship Winner (2019), Sports (Cricket and Badminton) Achievements - Secondary School, Best Handwriting Award, State Level Urdu Competition.
+- **Humor**: I love sharing a good laugh! Check out a tech meme below!
+
+<img src='https://memer-new.vercel.app/' style="height: 400px;" alt="Random Dev Meme"/>
+
+---
+
+# 🌐 Impressing Enough?:
+**Let's connect on LinkedIn**: <div align="left">
+  <a href="https://linkedin.com/in/farah-ibrar-a013b51a9">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn Logo" />
+  </a>
 </div>
 
+**Check out my Tableau for more inetersting Vizzes**: 
 
+[<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau Icon" height="40">](https://public.tableau.com/app/profile/farah.ibrar/vizzes)
 
+---
 
-A cool fact about me: I am fluent in 4 languages—English, Urdu, Punjabi, and Hindi. Additionally, I was awarded the "Best Handwriting" award at the state level in Pakistan in an Urdu competition.
-
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
-
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/farah-ibrar-a013b51a9) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FarahIbrar&icon=0&color=6)](https://visitcount.itsvg.in)
 
-
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</div>
+## Snake Animation
 
-###
-
-<img src="https://raw.githubusercontent.com/FarahIbrar/FarahIbrar/output/snake.svg" alt="Snake animation" />
-
+![Snake animation](https://github.com/FarahIbrar/FarahIbrar/raw/output/dist/snake.svg)
