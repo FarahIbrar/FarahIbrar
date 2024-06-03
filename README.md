@@ -6,9 +6,15 @@ I'm Farah Ibrar, originally from the United Kingdom. I hold a BSc in Biomedical 
 ---
 
 # 🕵️‍♀️ **Professional Interests:**
-During my academic journey, I discovered my passion for data analytics, data visualization, and technology through bioinformatics and R. My Master's final project in Data Science, where I developed a novel database storage solution for OMICS data, solidified this passion.
+During my academic journey, I discovered my passion for data analytics, data visualization, and technology through bioinformatics and R. My Master's final project in Data Science, where I developed a novel database storage solution for OMICS data, solidified this passion. Since then, I have been actively enhancing my skills in data and technology. Currently, I am furthering my programming and data analysis capabilities by taking a **Python** course with **CFG** powered by **Activision**.
 
-Since then, I have been actively enhancing my skills in data and technology. Currently, I am furthering my programming and data analysis capabilities by taking a **Python** course with **CFG** powered by **Activision**. I am particularly excited about applying data analytics and technology to finance and healthcare.
+**Explore my CV for more details**: 
+<div align="left">
+    
+[<img width="48" height="48" src="https://img.icons8.com/color/48/contract-job.png" alt="contract-job"/>](https://github.com/FarahIbrar/FarahIbrar/blob/main/cv/Farah%20Ibrar%20-%20CV.pdf)
+    
+</div>    
+
 
 ---
 
@@ -103,6 +109,6 @@ So here's one for you:
 
 <img src="https://raw.githubusercontent.com/FarahIbrar/FarahIbrar/output/snake.svg" alt="Snake animation" />
 
-
 ---
+
 [![Profile views](https://visitcount.itsvg.in/api?id=FarahIbrar&icon=0&color=6)](https://visitcount.itsvg.in)
