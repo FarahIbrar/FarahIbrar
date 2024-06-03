@@ -82,7 +82,7 @@ So here's one for you:
       <img src="https://github-readme-stats.vercel.app/api?username=FarahIbrar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&hide_title=true" alt="GitHub Stats" />
     </div>
     
-    <!-- GitHub Streak Stats -->
+<!-- GitHub Streak Stats -->
 <div style="flex: 1;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarahIbrar&theme=algolia&hide_border=false" alt="GitHub Streak Stats" />
     </div>
