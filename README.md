@@ -56,7 +56,7 @@ During my academic journey, I discovered my passion for data analytics, data vis
 
 ---
 
-# ✨ Personal Ineterests:
+# ✨ Personal Interests:
 I advocate for a healthy lifestyle and enjoy playing badminton and cricket, cooking, reading about AI and its applications, and volunteering at student events. With a dynamic personality, I love keeping myself busy—I thrive on continuous learning and new challenges. In line with my passion for growth and inspiration, I often turn to motivational quotes to keep me focused and driven. 
 
 So here's one for you:
