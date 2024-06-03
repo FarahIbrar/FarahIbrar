@@ -71,7 +71,7 @@ So here's one for you:
 
   <!-- Stats and Streak side by side -->
 <div style="display: flex; align-items: center; gap: 100px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarahIbrar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=FarahIbrar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&hide_title=true" alt="GitHub Stats" /> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarahIbrar&theme=algolia&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
