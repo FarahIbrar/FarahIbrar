@@ -106,12 +106,12 @@ So here's one for you:
 
 ---
 
-
----
-[![](https://visitcount.itsvg.in/api?id=FarahIbrar&icon=0&color=6)](https://visitcount.itsvg.in)
-
-###
-
 ## Snake Animation
 
 ![Snake animation](https://github.com/FarahIbrar/FarahIbrar/raw/output/dist/snake.svg)
+<img src="https://raw.githubusercontent.com/FarahIbrar/FarahIbrar/output/snake.svg" alt="Snake animation" />
+
+---
+[![Profile views](https://visitcount.itsvg.in/api?id=FarahIbrar&icon=0&color=6)](https://visitcount.itsvg.in)
+
+###
