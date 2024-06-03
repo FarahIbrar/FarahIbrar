@@ -71,20 +71,13 @@ So here's one for you:
 
   <!-- Languages section centered -->
   <div style="width: 100%; display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarahIbrar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="max-width: 100%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarahIbrar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
   </div>
 
   <!-- Stats and Streak side by side -->
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; width: 100%; max-width: 1200px; margin-bottom: 20px;">
-    <!-- GitHub Stats -->
-    <div style="flex: 1;">
-      <img src="https://github-readme-stats.vercel.app/api?username=FarahIbrar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&hide_title=true" alt="GitHub Stats" />
-    </div>
-    
- <!-- GitHub Streak Stats -->
- <div style="flex: 1;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarahIbrar&theme=algolia&hide_border=false" alt="GitHub Streak Stats" />
-    </div>
+  <div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=FarahIbrar&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+    <img src="https://streak-stats.demolab.com?user=FarahIbrar&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
   </div>
 
   <!-- Contribution graph -->
@@ -93,6 +86,7 @@ So here's one for you:
   </div>
   
 </div>
+
 
 
 ---
