@@ -76,10 +76,10 @@ So here's one for you:
   </div>
 
   <!-- Stats and Streak side by side -->
-<div style="display: flex; align-items: center; gap: 100px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarahIbrar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&hide_title=true" alt="GitHub Stats" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FarahIbrar&theme=algolia&hide_border=false" alt="GitHub Streak Stats" />
-</div>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 100px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=FarahIbrar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&hide_title=true" alt="GitHub Stats" /> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarahIbrar&theme=algolia&hide_border=false" alt="GitHub Streak Stats" />
+  </div>
 
   <!-- Contribution graph -->
   <div style="width: 80%; margin-bottom: 40px;">
@@ -87,6 +87,7 @@ So here's one for you:
   </div>
   
 </div>
+
 
 ---
 
@@ -100,7 +101,7 @@ So here's one for you:
 ---
 
 # 🌐 Impressing Enough?:
-**Let's connect on LinkedIn**: [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn Logo" />](https://linkedin.com/in/farah-ibrar-a013b51a9) &nbsp;&nbsp;&nbsp; **Check out my Tableau for more interesting Vizzes**: [<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau Icon" height="40">](https://public.tableau.com/app/profile/farah.ibrar/vizzes)
+**Let's connect on LinkedIn**: [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn Logo" />](https://linkedin.com/in/farah-ibrar-a013b51a9) &nbsp;&nbsp;&nbsp; **Check out my Tableau for interesting Vizzes**: [<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau Icon" height="40">](https://public.tableau.com/app/profile/farah.ibrar/vizzes)
 
 
 ---
