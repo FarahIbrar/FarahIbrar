@@ -83,7 +83,7 @@ So here's one for you:
     </div>
     
     <!-- GitHub Streak Stats -->
-    <div style="flex: 1;">
+<div style="flex: 1;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarahIbrar&theme=algolia&hide_border=false" alt="GitHub Streak Stats" />
     </div>
   </div>
