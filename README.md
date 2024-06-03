@@ -55,29 +55,28 @@ I advocate for a healthy lifestyle and enjoy playing badminton and cricket, cook
 
 So here's one for you:
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quotes that helps me](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
 
 # 📊 GitHub Stats:
+<div style="display: flex; align-items: center; gap: 100px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=FarahIbrar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FarahIbrar&theme=algolia&hide_border=false" alt="GitHub Streak Stats" />
+</div>
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarahIbrar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
+
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarahIbrar&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&hide_title=true" width="1000" height="350" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarahIbrar&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&hide_title=true" width="1500" height="300" alt="activity-graph graph" />
 </div>
 <br>
-
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FarahIbrar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-
-![](https://github-readme-stats.vercel.app/api?username=FarahIbrar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)
-                                                                    
-![](https://github-readme-streak-stats.herokuapp.com/?user=FarahIbrar&theme=algolia&hide_border=false)
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarahIbrar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="margin-right: 100px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarahIbrar&theme=algolia&hide_border=false" alt="GitHub Streak Stats" />
-</div>
 
 
 A cool fact about me: I am fluent in 4 languages—English, Urdu, Punjabi, and Hindi. Additionally, I was awarded the "Best Handwriting" award at the state level in Pakistan in an Urdu competition.
