@@ -76,14 +76,14 @@ So here's one for you:
   </div>
 
   <!-- Stats and Streak side by side -->
-  <div style="display: flex; justify-content: center; gap: 100px;">
+  <div style="display: flex; justify-content: center; gap: 20px; width: 100%; max-width: 1200px;">
     <!-- GitHub Stats -->
-    <div style="flex: 1;">
+    <div style="flex: 1; max-width: 50%;">
       <img src="https://github-readme-stats.vercel.app/api?username=FarahIbrar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&hide_title=true" alt="GitHub Stats" />
     </div>
     
-<!-- GitHub Streak Stats -->
-<div style="flex: 1;">
+ <!-- GitHub Streak Stats -->
+<div style="flex: 1; max-width: 50%;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarahIbrar&theme=algolia&hide_border=false" alt="GitHub Streak Stats" />
     </div>
   </div>
@@ -94,6 +94,7 @@ So here's one for you:
   </div>
   
 </div>
+
 
 
 
