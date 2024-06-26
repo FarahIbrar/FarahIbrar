@@ -18,7 +18,8 @@ During my academic journey, I discovered my passion for data analytics, data vis
 
 ---
 
-# 💻 Languages and Tools:
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+
 ### Programming Languages:
 <div align="left">
     <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
@@ -65,7 +66,7 @@ So here's one for you:
 
 ---
 
-# 📊 GitHub Stats:
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 <!-- Container for the entire content -->
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
 
