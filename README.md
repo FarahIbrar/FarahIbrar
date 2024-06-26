@@ -78,7 +78,7 @@ So here's one for you:
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=FarahIbrar&bg_color=0D1117&text_color=ffffff&icon_color=a06cd5&title_color=9370db&show_icons=true&hide_border=true" />
 </a>
 <a href="https://github.com/FarahIbrar">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarahIbrar&layout=compact&langs_count=8&card_width=300&bg_color=0D1117&text_color=ffffff&title_color=9370db&hide_border=true" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarahIbrar&layout=compact&langs_count=8&card_width=280&bg_color=0D1117&text_color=ffffff&title_color=9370db&hide_border=true" />
 </a>
 
 
