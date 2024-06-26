@@ -74,15 +74,6 @@ So here's one for you:
 
 ---
 
-<a href="https://github.com/FarahIbrar">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=FarahIbrar&card_width=200&bg_color=0D1117&text_color=ffffff&icon_color=a06cd5&title_color=9370db&show_icons=true&hide_border=true&hide_title=true" />
-</a>
-<a href="https://github.com/FarahIbrar">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarahIbrar&layout=compact&card_width=200&langs_count=8&bg_color=0D1117&text_color=ffffff&title_color=9370db&hide_border=true" />
-</a>
-
----
-
 <div style="display: flex;">
   <a href="https://github.com/FarahIbrar" style="flex: 1; margin-right: 10px;">
     <img height="190" src="https://github-readme-stats.vercel.app/api?username=FarahIbrar&card_width=200&bg_color=0D1117&text_color=ffffff&icon_color=a06cd5&title_color=9370db&show_icons=true&hide_border=true&hide_title=false" />
@@ -92,7 +83,6 @@ So here's one for you:
   </a>
 </div>
 
-
 ---
   <!-- Contribution graph -->
   <div style="width: 80%; margin-bottom: 40px;">
@@ -101,7 +91,11 @@ So here's one for you:
   
 </div>
 
+---
 
+<div style="width: 100%; margin-bottom: 40px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarahIbrar&theme=dark&custom_title=Contribution%20Graph&bg_color=0D1117&area=true&line=9370DB&point=6F42C1&text_color=ffffff&hide_border=true&hide_grid=true" style="width: 100%; height: autopx;" alt="Contribution Graph" />
+</div>
 
 ---
 
