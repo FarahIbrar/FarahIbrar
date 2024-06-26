@@ -67,19 +67,23 @@ So here's one for you:
 ---
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
-<!-- Container for the entire content -->
-<div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
 
-  <!-- Languages section centered -->
-  <div style="width: 100%; display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarahIbrar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-  </div>
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=FarahIbrar&theme=modern-lilac2&hide_border=true&card_width=800">
+</p>
 
-  <!-- Stats and Streak side by side -->
-  <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=FarahIbrar&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-    <img src="https://streak-stats.demolab.com?user=FarahIbrar&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  </div>
+---
+
+<div align="center">
+<a href="https://github.com/FarahIbrar">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=FarahIbrar&bg_color=0D1117&text_color=ffffff&icon_color=a06cd5&title_color=9370db&show_icons=true&hide_border=true" />
+</a>
+<a href="https://github.com/FarahIbrar">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarahIbrar&layout=compact&langs_count=8&card_width=320&bg_color=0D1117&text_color=ffffff&title_color=9370db&hide_border=true" />
+</a>
+</div>
+
+---
 
   <!-- Contribution graph -->
   <div style="width: 80%; margin-bottom: 40px;">
