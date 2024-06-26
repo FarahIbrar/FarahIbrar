@@ -116,5 +116,5 @@ So here's one for you:
 [![Profile views](https://visitcount.itsvg.in/api?id=FarahIbrar&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=C4A0E4&section=footer&reversal=false&textBg=false&fontAlign=50&fontAlignY=50&animation=fadeIn"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=c88ad3&section=footer&reversal=false"/>
 </p>
