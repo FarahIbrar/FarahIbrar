@@ -69,11 +69,6 @@ So here's one for you:
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=FarahIbrar&theme=modern-lilac2&hide_border=true&card_width=800">
-</p>
-
-
-<p align="center">
 <a href="https://git.io/streak-stats">
 <img src="https://streak-stats.demolab.com?user=FarahIbrar&theme=modern-lilac2&hide_border=true&border_radius=&date_format=n%2Fj%5B%2FY%5D&card_width=1000&card_height=200" alt="GitHub Streak" />
 </a>
@@ -97,7 +92,6 @@ So here's one for you:
 </div>
 
 ---
-
 
 # 😎 Fun Facts About Me: 
 - **Multilingual**: Fluent in 4 languages—English, Urdu, Punjabi, and Hindi.
