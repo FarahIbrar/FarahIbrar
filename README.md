@@ -72,6 +72,13 @@ So here's one for you:
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=FarahIbrar&theme=modern-lilac2&hide_border=true&card_width=800">
 </p>
 
+
+<p align="center">
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=FarahIbrar&theme=modern-lilac2&hide_border=true&border_radius=&date_format=n%2Fj%5B%2FY%5D&card_width=1000&card_height=200" alt="GitHub Streak" />
+</a>
+</p>
+
 ---
 
 <div style="display: flex;">
