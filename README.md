@@ -75,14 +75,15 @@ So here's one for you:
 ---
 
 <a href="https://github.com/FarahIbrar">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=FarahIbrar&bg_color=0D1117&text_color=ffffff&icon_color=a06cd5&title_color=9370db&show_icons=true&hide_border=true&hide_title=true&card_width=280" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=FarahIbrar&bg_color=0D1117&text_color=ffffff&icon_color=a06cd5&title_color=9370db&show_icons=true&hide_border=true&hide_title=true" />
 </a>
 <a href="https://github.com/FarahIbrar">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarahIbrar&layout=compact&langs_count=8&card_width=280&bg_color=0D1117&text_color=ffffff&title_color=9370db&hide_border=true" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarahIbrar&layout=compact&langs_count=8&bg_color=0D1117&text_color=ffffff&title_color=9370db&hide_border=true" />
 </a>
 
 ---
 
+&card_width=250
   <!-- Contribution graph -->
   <div style="width: 80%; margin-bottom: 40px;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarahIbrar&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&hide_title=true" style="width: 100%; height: auto;" alt="Contribution Graph" />
