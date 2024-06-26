@@ -83,7 +83,16 @@ So here's one for you:
 
 ---
 
-&card_width=250
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/FarahIbrar" style="margin-right: 10px;">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=FarahIbrar&card_width=200&bg_color=0D1117&text_color=ffffff&icon_color=a06cd5&title_color=9370db&show_icons=true&hide_border=true&hide_title=true" />
+  </a>
+  <a href="https://github.com/FarahIbrar">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarahIbrar&layout=compact&card_width=200&langs_count=8&bg_color=0D1117&text_color=ffffff&title_color=9370db&hide_border=true" />
+  </a>
+</div>
+
+---
   <!-- Contribution graph -->
   <div style="width: 80%; margin-bottom: 40px;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarahIbrar&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&hide_title=true" style="width: 100%; height: auto;" alt="Contribution Graph" />
