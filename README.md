@@ -84,20 +84,17 @@ So here's one for you:
 </div>
 
 ---
-  <!-- Contribution graph -->
+
   <div style="width: 80%; margin-bottom: 40px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarahIbrar&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&hide_title=true" style="width: 100%; height: auto;" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarahIbrar&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&hide_title=true&bg_color=0D1117&color=9370db&line=8660d6&point=C3C3E5&area_color=D3BBDD&hide_border=true" style="width: 100%; height: auto;" alt="Contribution Graph" />
   </div>
-  
+
+  <div style="width: 80%; margin-bottom: 40px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarahIbrar&radius=16&theme=tokyo-night&area=true&order=5&hide_title=true&bg_color=0D1117&color=9370db&line=8660d6&point=C3C3E5&area_color=D3BBDD&hide_border=true" style="width: 100%; height: auto;" alt="Contribution Graph" />
 </div>
 
 ---
 
-<div style="width: 100%; margin-bottom: 40px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarahIbrar&theme=dark&custom_title=Contribution%20Graph&bg_color=0D1117&area=true&line=9370DB&point=6F42C1&text_color=ffffff&hide_border=true&hide_grid=true" style="width: 100%; height: autopx;" alt="Contribution Graph" />
-</div>
-
----
 
 # 😎 Fun Facts About Me: 
 - **Multilingual**: Fluent in 4 languages—English, Urdu, Punjabi, and Hindi.
