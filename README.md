@@ -11,7 +11,7 @@ During my academic journey, I discovered my passion for data analytics, data vis
 **Explore my CV for more details**: 
 <div align="left">
     
-[<img width="48" height="48" src="https://img.icons8.com/color/48/contract-job.png" alt="contract-job"/>](https://github.com/FarahIbrar/FarahIbrar/blob/main/CV/Farah%20Ibrar%20-%20CV.pdf)
+[<img width="48" height="48" src="https://img.icons8.com/color/48/contract-job.png" alt="contract-job"/>](https://github.com/FarahIbrar/FarahIbrar/blob/main/CV/CV%20-%20Farah%20Ibrar.pdf)
     
 </div>    
 
