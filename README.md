@@ -20,168 +20,128 @@ During my academic journey, I discovered my passion for data analytics, data vis
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 
-### Programming Languages:
-<div align="left">
-    <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  /> ----
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo" />  -------
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /> --------
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  /> ---
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  /> ---
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  /> ----
-  <img width="12" />
+<div style="display: flex; align-items: flex-start; justify-content: center">
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.python.org/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="icon" width="40" height="40" />
+        </a>
+        <br>RStudio
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" width="40" height="40" alt="PHP" />
+        <br>SPSS
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" />
+        <br>CSS
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="icon" width="40" height="40" />
+        <br>Tableau
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="icon" width="40" height="40" />
+        <br>Anaconda
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="icon" width="40" height="40" />
+        <br>VSCode
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="icon" width="40" height="40" />
+        <br>Jupyter
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
+        <br>Github
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Nodejs" />
+        <br>Nodejs
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="40" height="40" alt="NumPy" />
+        <br>NumPy
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40" height="40" alt="Pandas" />
+        <br>Pandas
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-Learn" />
+        <br>Sklearn
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="Pytorch" />
+        <br>Pytorch
+      </td>
+      <td align="center" width="96">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib" />
+        <br>Matplotlib
+      </td>
+      <td align="center" width="96">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn" />
+        <br>Seaborn
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow" />
+        <br>TensorFlow
+      </td>
+      <td align="center" width="96">
+        <img src="https://github.com/dochne/wappalyzer/blob/main/src/images/icons/Docker.svg" width="40" height="40" alt="Docker" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="SpaCy" width="40" height="40" />
+        <br>SpaCy
+      </td>
+      <td align="center" width="96">
+        <img src="https://github.com/get-icon/geticon/blob/master/icons/pycharm.svg" width="40" height="40" alt="PyCharm" />
+        <br>PyCharm
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" height="40" alt="Canva" />
+        <br>Canva
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
+        <br>Figma
+      </td>
+    </tr>
+  </table>
 </div>
 
-
-### Tools and Technologies:
-<div align="left">
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau Icon" height="40"> ----
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda logo" />   ----     
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" height="40" alt="spss logo"  /> ---
-  <img width="12" />
-   <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  /> ---
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
-  <img width="12" />
-  <div>
-
-
 ---
-
-  <table>
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.python.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="icon" width="40" height="40" />
-      </a>
-      <br>RStudio
-            </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
-      <br>MySQL
-            </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
-      <br>PostgreSQL
-              </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" width="40" height="40" alt="PHP" />
-      <br>SPSS
-           </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
-      <br>JavaScript
-    <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="icon" width="40" height="40" />
-      <br>Tableau
-    </td>
-  </tr>
-  <tr>
-                  </td>
-              <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="icon" width="40" height="40"  />
-      <br>Anaconda
-  <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="icon" width="40" height="40" />
-      <br>VsCode
-        <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="icon" width="40" height="40" />
-      <br>Jupyter
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
-      <br>Github
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
-      <br>Git
-        </td>
-    <td align="center" width="96"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Git" />
-      <br>Nodejs
-    </td>
-    <td align="center"  width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="40" height="40" alt="bootstrap" />
-      <br>NumPy
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40" height="40" alt="tailwind" />
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"width="40" height="40" alt="jQuery" />
-      <br>Sklearn
-          </td>
-    <td align="center" width="96">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg"width="40" height="40" alt="jQuery" />
-      <br>Matplotlib
-    </td>
-  </tr>
- <tr>
-      <td align="center" width="96">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="MongoDB" />
-      <br>Pytorch
-    </td>
-        <td align="center" width="96">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Nodejs" />
-      <br>Seaborn
-      </td>
-      </td>
-    <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="PHP" />
-      <br>TensorFlow
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
-      <br>VsCode
-    </td>
-              <td align="center" width="96">
-        <img src="https://github.com/dochne/wappalyzer/blob/main/src/images/icons/Docker.svg" width="40" height="40" alt="Vue" />
-      <br>Docker
-  <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="icon" width="40" height="40" />
-      </a>
-      <br>SpaCy
-          </td>
-    <td align="center"  width="96">
-        <img src="https://github.com/get-icon/geticon/blob/master/icons/pycharm.svg" width="40" height="40" alt="Laravel" />
-      <br>PyCharm
-    </td>
-              <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="https://www.java.com" />
-      <br>Java
-    </td>
- </tr>
-</table>
-<br><br>
-</table>
-
----
-
 # ✨ Personal Interests:
 I advocate for a healthy lifestyle and enjoy playing badminton and cricket, cooking, reading about AI and its applications, and volunteering at student events. With a dynamic personality, I love keeping myself busy—I thrive on continuous learning and new challenges. In line with my passion for growth and inspiration, I often turn to motivational quotes to keep me focused and driven. 
 
