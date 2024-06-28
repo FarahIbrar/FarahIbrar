@@ -189,9 +189,82 @@ So here's one for you:
 
 ---
 
-# 🌐 Impressing Enough?:
-**Let's connect on LinkedIn**: [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn Logo" />](https://linkedin.com/in/farah-ibrar-a013b51a9) &nbsp;&nbsp;&nbsp; **Check out my Tableau for interesting Vizzes**: [<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau Icon" height="40">](https://public.tableau.com/app/profile/farah.ibrar/vizzes)
+## Outlier Detection Script
+<details>
+  <summary>My Outlier Detection Script</summary>
+I developed this Python script to automate outlier detection using the Interquartile Range (IQR) method—a robust statistical technique widely used in data analysis. Outliers are data points that significantly differ from other observations and can skew statistical analyses. By calculating the IQR and defining upper and lower bounds, the script automatically detects outliers, helping data analysts quickly pinpoint and investigate potential anomalies in their datasets. This tool streamlines the data cleaning process, ensuring more accurate and reliable analyses.
 
+``` Python
+import numpy as np
+
+def detect_outliers(data):
+    q1, q3 = np.percentile(data, [25, 75])
+    iqr = q3 - q1
+    lower_bound = q1 - 1.5 * iqr
+    upper_bound = q3 + 1.5 * iqr
+    
+    outliers = [x for x in data if x < lower_bound or x > upper_bound]
+    
+    return outliers
+
+if __name__ == "__main__":
+    # Example usage:
+    data = [12, 18, 25, 7, 10, 15, 8, 19, 3, 100, 16]  # Example dataset with an outlier (100)
+    print("Detecting Outliers...")
+    outliers = detect_outliers(data)
+    if outliers:
+        print("Outliers detected:", outliers)
+    else:
+        print("No outliers detected.")
+```
+</details>
+
+
+---
+
+<details>
+  <summary style="font-size: 0px; font-weight: bold;">My Outlier Detection Script</summary>
+  
+  I developed this Python script to automate outlier detection using the Interquartile Range (IQR) method—a robust statistical technique widely used in data analysis. Outliers are data points that significantly differ from other observations and can skew statistical analyses. By calculating the IQR and defining upper and lower bounds, the script automatically detects outliers, helping data analysts quickly pinpoint and investigate potential anomalies in their datasets. This tool streamlines the data cleaning process, ensuring more accurate and reliable analyses.
+  
+  ```python
+  import numpy as np
+  
+  def detect_outliers(data):
+      q1, q3 = np.percentile(data, [25, 75])
+      iqr = q3 - q1
+      lower_bound = q1 - 1.5 * iqr
+      upper_bound = q3 + 1.5 * iqr
+      
+      outliers = [x for x in data if x < lower_bound or x > upper_bound]
+      
+      return outliers
+  
+  if __name__ == "__main__":
+      # Example usage:
+      data = [12, 18, 25, 7, 10, 15, 8, 19, 3, 100, 16]  # Example dataset with an outlier (100)
+      print("Detecting Outliers...")
+      outliers = detect_outliers(data)
+      if outliers:
+          print("Outliers detected:", outliers)
+      else:
+          print("No outliers detected.")
+```
+</details>
+
+
+# 🌐 Impressing Enough?:
+<details>
+  <summary>Skills</summary>
+  
+- Problem Solving
+- Youtuber
+- Blogging
+- Web Content Writing
+- Video Editing
+- Blogger
+- Researching & Learning
+</details>
 
 ---
 
