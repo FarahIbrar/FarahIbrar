@@ -1,20 +1,22 @@
 ![Farah Ibrar's Github Banner](https://github.com/FarahIbrar/FarahIbrar/blob/main/GitHub%20Poster.png)
 
+   </p>
+<p align="center">
+<a href="https://replit.com/@aashisjha" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:center" /></a>
+<a href="mailto:farah11ibrar@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://public.tableau.com/app/profile/farah.ibrar/vizzes" target="_blank"><img alt="" src="https://img.shields.io/badge/Tableau-005F86?style=for-the-badge&logo=tableau&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://github.com/FarahIbrar/FarahIbrar/blob/main/CV/CV%20-%20Farah%20Ibrar.pdf" target="_blank"><img alt="Email" src="https://img.shields.io/badge/CV/Resume-teal?style=for-the-badge&logo=microsoft-word&logoColor=white" style="vertical-align:center" /></a>
+</p>
+
+---
+
 # 💫 About Me:
 I'm Farah Ibrar, originally from the United Kingdom. I hold a BSc in Biomedical Sciences (Hons) and recently completed my MSc in Biomedical Sciences (Immunology) from the University of Westminster, London.
 
 ---
 
 # 🕵️‍♀️ **Professional Interests:**
-During my academic journey, I discovered my passion for data analytics, data visualization, and technology through bioinformatics and R. My Master's final project in Data Science, where I developed a novel database storage solution for OMICS data, solidified this passion. Since then, I have been actively enhancing my skills in data and technology. Currently, I am furthering my programming and data analysis capabilities by taking a **Python** course with **CFG** powered by **Activision**.
-
-**Explore my CV for more details**: 
-<div align="left">
-    
-[<img width="48" height="48" src="https://img.icons8.com/color/48/contract-job.png" alt="contract-job"/>](https://github.com/FarahIbrar/FarahIbrar/blob/main/CV/CV%20-%20Farah%20Ibrar.pdf)
-    
-</div>    
-
+During my academic journey, I discovered my passion for data analytics, data visualization, and technology through bioinformatics and R. My Master's final project in Data Science, where I developed a novel database storage solution for OMICS data, solidified this passion. Since then, I have been actively enhancing my skills in data and technology. Currently, I am furthering my programming and data analysis capabilities by taking a **Python** course with **CFG** powered by **Activision**. 
 
 ---
 
