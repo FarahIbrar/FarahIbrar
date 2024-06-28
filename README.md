@@ -153,6 +153,8 @@ So here's one for you:
 
 ---
 
+---
+
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> GitHub Stats 
 
 <p align="center">
@@ -196,8 +198,8 @@ So here's one for you:
   
   - I developed this Python script to automate outlier detection using the Interquartile Range (IQR) method—a robust statistical technique widely used in data analysis. 
   - Outliers are data points that significantly differ from other observations and can skew statistical analyses. 
-  - By calculating the IQR and defining upper and lower bounds, the script automatically detects outliers, helping data analysts quickly pinpoint and investigate potential anomalies in their datasets. 
-  - This tool streamlines the data cleaning process, ensuring more accurate and reliable analyses.
+  - By calculating the IQR and defining upper and lower bounds, the script automatically detects outliers, helping pinpoint and investigate potential anomalies in the datasets. 
+  - This script streamlines the data cleaning process, ensuring more accurate and reliable analysis.
 
   ```python
   import numpy as np
@@ -223,53 +225,10 @@ So here's one for you:
           print("No outliers detected.")
 ```
 </details>
-
 
 ---
 
-<details>
-  <summary style="font-size: 0px; font-weight: bold;">My Outlier Detection Script</summary>
-  
-  I developed this Python script to automate outlier detection using the Interquartile Range (IQR) method—a robust statistical technique widely used in data analysis. Outliers are data points that significantly differ from other observations and can skew statistical analyses. By calculating the IQR and defining upper and lower bounds, the script automatically detects outliers, helping data analysts quickly pinpoint and investigate potential anomalies in their datasets. This tool streamlines the data cleaning process, ensuring more accurate and reliable analyses.
-  
-  ```python
-  import numpy as np
-  
-  def detect_outliers(data):
-      q1, q3 = np.percentile(data, [25, 75])
-      iqr = q3 - q1
-      lower_bound = q1 - 1.5 * iqr
-      upper_bound = q3 + 1.5 * iqr
-      
-      outliers = [x for x in data if x < lower_bound or x > upper_bound]
-      
-      return outliers
-  
-  if __name__ == "__main__":
-      # Example usage:
-      data = [12, 18, 25, 7, 10, 15, 8, 19, 3, 100, 16]  # Example dataset with an outlier (100)
-      print("Detecting Outliers...")
-      outliers = detect_outliers(data)
-      if outliers:
-          print("Outliers detected:", outliers)
-      else:
-          print("No outliers detected.")
-```
-</details>
-
-
 # 🌐 Impressing Enough?:
-<details>
-  <summary>Skills</summary>
-  
-- Problem Solving
-- Youtuber
-- Blogging
-- Web Content Writing
-- Video Editing
-- Blogger
-- Researching & Learning
-</details>
 
 ---
 
