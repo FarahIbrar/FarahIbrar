@@ -2,7 +2,7 @@
 
    </p>
 <p align="center">
-<a href="www.linkedin.com/in/farah-ibrar-a013b51a9" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:center" /></a>
+<a href="linkedin.com/in/farah-ibrar-a013b51a9" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:center" /></a>
 <a href="mailto:farah11ibrar@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
 <a href="https://public.tableau.com/app/profile/farah.ibrar/vizzes" target="_blank"><img alt="" src="https://img.shields.io/badge/Tableau-005F86?style=for-the-badge&logo=tableau&logoColor=white" style="vertical-align:center" /></a>
 <a href="https://github.com/FarahIbrar/FarahIbrar/blob/main/CV/CV%20-%20Farah%20Ibrar.pdf" target="_blank"><img alt="Email" src="https://img.shields.io/badge/CV/Resume-teal?style=for-the-badge&logo=microsoft-word&logoColor=white" style="vertical-align:center" /></a>
