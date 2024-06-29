@@ -1,5 +1,7 @@
 ![Farah Ibrar's Github Banner](https://github.com/FarahIbrar/FarahIbrar/blob/main/GitHub%20Poster.png)
 
+---
+
    </p>
 <p align="center">
 <a href="https://linkedin.com/in/farah-ibrar-a013b51a9" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:center" /></a>
