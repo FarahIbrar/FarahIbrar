@@ -10,7 +10,8 @@
 
 ---
 
-# 💫 About Me:
+# <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/output-onlinegiftools.gif" alt="female" aria-hidden="true" width="40" /> About Me
+
 I'm Farah Ibrar, originally from the United Kingdom. I hold a BSc in Biomedical Sciences (Hons) and recently completed my MSc in Biomedical Sciences (Immunology) from the University of Westminster, London.
 
 ---
@@ -20,7 +21,7 @@ During my academic journey, I discovered my passion for data analytics, data vis
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools**  
 
 <div style="display: flex; align-items: flex-start; justify-content: center">
   <table align="center">
@@ -182,16 +183,7 @@ So here's one for you:
 
 ---
 
-# 😎 Fun Facts About Me: 
-- **Multilingual**: Fluent in 4 languages—English, Urdu, Punjabi, and Hindi.
-- **Achievements**: Best Progress Award (2019 & 2020), Rochdale School's Badminton Championship Winner (2019), Sports (Cricket and Badminton) Achievements - Secondary School, Best Handwriting Award, State Level Urdu Competition.
-- **Humor**: I love sharing a good laugh! Check out a tech meme below!
-
-<img src='https://memer-new.vercel.app/' style="height: 400px;" alt="Random Dev Meme"/>
-
----
-
-## My Outlier Detection Script
+## <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/code.gif" alt="Code" width="30" height="30" /> **My Outlier Detection Script**
 
 <details>
   <summary>Click to expand!</summary>
@@ -225,6 +217,17 @@ So here's one for you:
           print("No outliers detected.")
 ```
 </details>
+
+---
+
+# 😎 Fun Facts About Me: 
+- **Multilingual**: Fluent in 4 languages—English, Urdu, Punjabi, and Hindi.
+- **Achievements**: Best Progress Award (2019 & 2020), Rochdale School's Badminton Championship Winner (2019), Sports (Cricket and Badminton) Achievements - Secondary School, Best Handwriting Award, State Level Urdu Competition.
+- **Humor**: I love sharing a good laugh! Check out a tech meme below!
+
+<img src='https://memer-new.vercel.app/' style="height: 400px;" alt="Random Dev Meme"/>
+
+---
 
 ---
 
