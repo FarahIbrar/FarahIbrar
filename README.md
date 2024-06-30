@@ -12,12 +12,7 @@
 
 ---
 
-# <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/output-onlinegiftools.gif" alt="female" aria-hidden="true" width="40" /> About Me
-
-# <img src="https://www.flaticon.com/free-animated-icons/information" alt="female" aria-hidden="true" width="40" /> About Me
-
-<a href="https://www.flaticon.com/free-animated-icons/information" title="information animated icons">Information animated icons created by Freepik - Flaticon</a>
-
+# <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/About%20me.gif" alt="female" aria-hidden="true" width="40" height="40" /> About Me
 I'm Farah Ibrar, originally from the United Kingdom. I hold a BSc in Biomedical Sciences (Hons) and recently completed my MSc in Biomedical Sciences (Immunology) from the University of Westminster, London.
 
 ---
