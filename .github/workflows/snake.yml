@@ -73,7 +73,7 @@ jobs:
         id: generate-snake
         uses: ./svg-only
         with:
-          github_user_name: YOUR_GITHUB_USERNAME
+          github_user_name: FarahIbrar
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -104,7 +104,6 @@ jobs:
       - run: npm run build:demo
         env:
           GITHUB_USER_CONTRIBUTION_API_ENDPOINT: https://api.github.com/users/FarahIbrar/events
-
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         if: success() && github.ref == 'refs/heads/main'
