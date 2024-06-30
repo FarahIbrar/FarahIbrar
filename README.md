@@ -189,7 +189,7 @@ So here's one for you:
 
 ---
 
-## <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/code.gif" alt="Code" width="30" height="30" /> **My Outlier Detection Script**
+## <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/code.gif" alt="Code" width="30" height="30" /> **My Outlier Detection Script**
 
 <details>
   <summary>Click to expand!</summary>
