@@ -157,15 +157,12 @@ So here's one for you:
 
 
 
-
-
-
 <p align="center">
-    <a href="https://github.com/FarahIbrar" target="_blank">
-    <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/Badminton.gif" alt="badminton" width="80" height="80" style="margin-right: 10px;" />
-  </a>
    <a href="https://github.com/FarahIbrar" target="_blank">
     <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/Cricket.gif" alt="Cricket" width="45" height="45" style="margin-right: 10px;" />
+   <a href="https://github.com/FarahIbrar" target="_blank">
+    <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/Badminton-sports.gif" alt="badminton" width="45" height="45" style="margin-right: 10px;" />
+  </a>
   </a>
   <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
     <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/Cooking.gif" alt="Cooking" width="45" height="45" style="margin-right: 10px;" />
