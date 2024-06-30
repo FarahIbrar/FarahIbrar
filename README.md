@@ -160,37 +160,32 @@ So here's one for you:
 
 
 
- <p align="center">
-  <a href="https://github.com/FarahIbrar" target="_blank">
-    <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/Cricket.gif" alt="Cricket" width="40" height="40" />
+<p align="center">
+    <a href="https://github.com/FarahIbrar" target="_blank">
+    <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/Badminton.gif" alt="badminton" width="80" height="80" style="margin-right: 10px;" />
   </a>
-
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://img.icons8.com/color/48/badminton.png" alt="badminton" width="40" height="40" />
+   <a href="https://github.com/FarahIbrar" target="_blank">
+    <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/Cricket.gif" alt="Cricket" width="45" height="45" style="margin-right: 10px;" />
   </a>
-
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Video%20Game.webp" alt="Azure" width="40" height="40" />
+  <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
+    <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/Cooking.gif" alt="Cooking" width="45" height="45" style="margin-right: 10px;" />
   </a>
-
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Musical%20Notes.png?raw=true" alt="Azure" width="40" height="40" />
+  <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
+    <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/book.gif" alt="Reading" width="45" height="45" style="margin-right: 10px;" />
   </a>
-
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
+  <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
+    <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/travel.gif" alt="travel" width="45" height="45" style="margin-right: 10px;" />
   </a>
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/globe.gif?raw=true" alt="Azure" width="40" height="40" />
+  <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
+    <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/busy.gif" alt="busy" width="45" height="45" style="margin-right: 10px;" />
   </a>
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/book.gif?raw=true" alt="Azure" width="40" height="40" />
+  <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
+    <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/training.gif" alt="training" width="45" height="45" style="margin-right: 10px;" />
   </a>
-  <a href="https://jrohit.com.np" target="_blank">
-    <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/music.gif?raw=true" alt="Azure" width="40" height="40"" />
+  <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
+    <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/artificial-intelligence.gif" alt="AI" width="45" height="45" style="margin-right: 10px;" />
   </a>
-  
- </p>
+</p>
 
 ---
 
