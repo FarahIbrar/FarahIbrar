@@ -20,8 +20,6 @@ I'm Farah Ibrar, originally from the United Kingdom. I hold a BSc in Biomedical 
 # <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/personal_interest.gif" alt="Interests" aria-hidden="true" width="40" height="40" /> Professional Interests
 My academic path sparked a deep interest in data analytics, visualization, and technology, particularly through bioinformatics and R. My Master's final project in Data Science focused on innovating database storage solutions for OMICS data solidified my passion. Since then, I have been actively enhancing my skills in data&tech. Currently, I'm advancing my skills in programming and data analysis through a **Python** course with **CFG** powered by **Activision**.
 
-
-
 ---
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools**  
@@ -178,6 +176,9 @@ So here's one for you:
   </a>
   <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
     <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/training.gif" alt="training" width="45" height="45" style="margin-right: 10px;" />
+   </a>
+  <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
+    <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/music.gif" alt="music" width="45" height="45" style="margin-right: 10px;" />
   </a>
   <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
     <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/artificial-intelligence.gif" alt="AI" width="45" height="45" style="margin-right: 10px;" />
