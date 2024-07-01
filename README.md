@@ -10,8 +10,6 @@
 <a href="https://github.com/FarahIbrar/FarahIbrar/blob/main/CV/CV%20-%20Farah%20Ibrar.pdf" target="_blank"><img alt="Email" src="https://img.shields.io/badge/CV/Resume-teal?style=for-the-badge&logo=microsoft-word&logoColor=white" style="vertical-align:center" /></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=FarahIbrar&color=dc143c&style=flat-square)
-
 ---
 
 # <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/About%20me.gif" alt="female" aria-hidden="true" width="40" height="40" /> About Me
@@ -298,7 +296,7 @@ I advocate for a healthy, busy lifestyle and thrive on continuous learning and n
 ---
 
 [![Profile views](https://visitcount.itsvg.in/api?id=FarahIbrar&icon=0&color=6)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=FarahIbrar&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=c88ad3&section=footer&reversal=false"/>
 </p>
