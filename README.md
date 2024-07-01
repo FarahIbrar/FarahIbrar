@@ -211,14 +211,6 @@ I advocate for a healthy, busy lifestyle and thrive on continuous learning and n
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<div style="text-align: center;">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes" target="_blank">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true" alt="Readme Quotes" />
-  </a>
-</div>
-
-
-
 ---
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> GitHub Stats 
