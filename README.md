@@ -149,7 +149,7 @@ My academic path sparked a deep interest in data analytics, visualization, and t
 # ✨ Personal Interests
 I advocate for a healthy, busy lifestyle and thrive on continuous learning and new challenges. Motivational quotes keep me focused and driven, fueling my passion for growth and inspiration.
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/FarahIbrar" target="_blank">
@@ -209,7 +209,14 @@ I advocate for a healthy, busy lifestyle and thrive on continuous learning and n
 </table>
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<div style="text-align: center;">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes" target="_blank">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true" alt="Readme Quotes" />
+  </a>
+</div>
+
 
 
 ---
