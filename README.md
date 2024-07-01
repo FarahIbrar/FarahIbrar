@@ -10,6 +10,8 @@
 <a href="https://github.com/FarahIbrar/FarahIbrar/blob/main/CV/CV%20-%20Farah%20Ibrar.pdf" target="_blank"><img alt="Email" src="https://img.shields.io/badge/CV/Resume-teal?style=for-the-badge&logo=microsoft-word&logoColor=white" style="vertical-align:center" /></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=FarahIbrar&color=dc143c&style=flat-square)
+
 ---
 
 # <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/About%20me.gif" alt="female" aria-hidden="true" width="40" height="40" /> About Me
@@ -149,6 +151,12 @@ My academic path sparked a deep interest in data analytics, visualization, and t
 # ✨ Personal Interests
 I advocate for a healthy, busy lifestyle and thrive on continuous learning and new challenges. Motivational quotes keep me focused and driven, fueling my passion for growth and inspiration.
 
+<p align="center">
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true" alt="Readme Quotes">
+    </a>
+</p>
+
 <table align="center">
   <tr>
     <td align="center">
@@ -201,18 +209,18 @@ I advocate for a healthy, busy lifestyle and thrive on continuous learning and n
     </td>
     <td align="center">
       <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
+        <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/dance.gif" alt="Dance" width="45" height="45" style="margin-right: 10px;" />
+      </a>
+      <br>Dancing
+    </td>
+    <td align="center">
+      <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
         <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/artificial-intelligence.gif" alt="AI" width="45" height="45" style="margin-right: 10px;" />
       </a>
       <br>AI
     </td>
   </tr>
 </table>
-
-<p align="center">
-    <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true" alt="Readme Quotes">
-    </a>
-</p>
 
 ---
 
@@ -246,7 +254,7 @@ I advocate for a healthy, busy lifestyle and thrive on continuous learning and n
 ## <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/code.gif" alt="Code" width="30" height="30" /> **My Outlier Detection Script**
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary> Click 🔽 to expand! </summary>
   
   - I developed this Python script to automate outlier detection using the Interquartile Range (IQR) method—a robust statistical technique widely used in data analysis. 
   - Outliers are data points that significantly differ from other observations and can skew statistical analyses. 
@@ -284,18 +292,6 @@ I advocate for a healthy, busy lifestyle and thrive on continuous learning and n
 - **Multilingual**: Fluent in 4 languages—English, Urdu, Punjabi, and Hindi.
 - **Achievements**: Best Progress Award (2019 & 2020), Rochdale School's Badminton Championship Winner (2019), Sports (Cricket and Badminton) Achievements - Secondary School, Best Handwriting Award, State Level Urdu Competition.
 - **Humor**: I love sharing a good laugh! Check out a tech meme below!
-
-<img src='https://memer-new.vercel.app/' style="height: 400px;" alt="Random Dev Meme"/>
-
----
-
----
-
-# 🌐 Impressing Enough?:
-
----
-
-## Snake Animation
 
 <img src="https://raw.githubusercontent.com/FarahIbrar/FarahIbrar/output/snake.svg" alt="Snake animation" />
 
