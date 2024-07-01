@@ -146,46 +146,71 @@ My academic path sparked a deep interest in data analytics, visualization, and t
 </div>
 
 ---
-# ✨ Personal Interests:
-I advocate for a healthy lifestyle and enjoy playing badminton and cricket, cooking, reading about AI and its applications, and volunteering at student events. With a dynamic personality, I love keeping myself busy—I thrive on continuous learning and new challenges. In line with my passion for growth and inspiration, I often turn to motivational quotes to keep me focused and driven. 
+# ✨ Personal Interests
+I advocate for a healthy, busy lifestyle and thrive on continuous learning and new challenges. Motivational quotes keep me focused and driven, fueling my passion for growth and inspiration.
 
-So here's one for you:
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/FarahIbrar" target="_blank">
+        <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/Cricket.gif" alt="Cricket" width="45" height="45" style="margin-right: 10px;" />
+      </a>
+      <br>Cricket
+    </td>
+    <td align="center">
+      <a href="https://github.com/FarahIbrar" target="_blank">
+        <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/Badminton-sports.gif" alt="Badminton" width="45" height="45" style="margin-right: 10px;" />
+      </a>
+      <br>Badminton
+    </td>
+    <td align="center">
+      <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
+        <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/Cooking.gif" alt="Cooking" width="45" height="45" style="margin-right: 10px;" />
+      </a>
+      <br>Cooking
+    </td>
+    <td align="center">
+      <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
+        <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/book.gif" alt="Reading" width="45" height="45" style="margin-right: 10px;" />
+      </a>
+      <br>Reading
+    </td>
+    <td align="center">
+      <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
+        <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/travel.gif" alt="Travel" width="45" height="45" style="margin-right: 10px;" />
+      </a>
+      <br>Travelling
+    </td>
+    <td align="center">
+      <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
+        <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/busy.gif" alt="Busy" width="45" height="45" style="margin-right: 10px;" />
+      </a>
+      <br>Productive
+    </td>
+    <td align="center">
+      <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
+        <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/training.gif" alt="Training" width="45" height="45" style="margin-right: 10px;" />
+      </a>
+      <br>Training
+    </td>
+    <td align="center">
+      <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
+        <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/music.gif" alt="Music" width="45" height="45" style="margin-right: 10px;" />
+      </a>
+      <br>Music
+    </td>
+    <td align="center">
+      <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
+        <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/artificial-intelligence.gif" alt="AI" width="45" height="45" style="margin-right: 10px;" />
+      </a>
+      <br>AI
+    </td>
+  </tr>
+</table>
 
-![Quotes that helps me](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
-
-<p align="center">
-   <a href="https://github.com/FarahIbrar" target="_blank">
-    <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/Cricket.gif" alt="Cricket" width="45" height="45" style="margin-right: 10px;" />
-   <a href="https://github.com/FarahIbrar" target="_blank">
-    <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/Badminton-sports.gif" alt="badminton" width="45" height="45" style="margin-right: 10px;" />
-  </a>
-  </a>
-  <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
-    <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/Cooking.gif" alt="Cooking" width="45" height="45" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
-    <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/book.gif" alt="Reading" width="45" height="45" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
-    <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/travel.gif" alt="travel" width="45" height="45" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
-    <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/busy.gif" alt="busy" width="45" height="45" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
-    <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/training.gif" alt="training" width="45" height="45" style="margin-right: 10px;" />
-   </a>
-  <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
-    <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/music.gif" alt="music" width="45" height="45" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
-    <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/artificial-intelligence.gif" alt="AI" width="45" height="45" style="margin-right: 10px;" />
-  </a>
-</p>
-
----
 
 ---
 
