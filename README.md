@@ -208,8 +208,11 @@ I advocate for a healthy, busy lifestyle and thrive on continuous learning and n
   </tr>
 </table>
 
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+<p align="center">
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true" alt="Readme Quotes">
+    </a>
+</p>
 
 ---
 
