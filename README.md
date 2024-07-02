@@ -166,7 +166,7 @@ My academic path sparked a deep interest in data analytics, visualization, and t
 ---
 
 ## <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/code.gif" alt="Code" width="30" height="30" /> **My Outlier Detection Script**
-This Python script automates outlier detection using the Interquartile Range (IQR) method, a robust statistical technique. By calculating the IQR and defining upper and lower bounds, it identifies significant anomalies in datasets. This streamlines data cleaning, ensuring more accurate and reliable analysis.
+This [Python script](https://github.com/FarahIbrar/FarahIbrar/blob/main/Outlier%20Detection%20Script.md) automates outlier detection using the Interquartile Range (IQR) method, a robust statistical technique. By calculating the IQR and defining upper and lower bounds, it identifies significant anomalies in datasets. This streamlines data cleaning, ensuring more accurate and reliable analysis.
 
   ```python
   import numpy as np
