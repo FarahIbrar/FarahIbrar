@@ -1,20 +1,15 @@
 ![Farah Ibrar's Github Banner](https://github.com/FarahIbrar/FarahIbrar/blob/main/Data%20Analyst%20-%20Farah%20Ibrar.png)
-[![My Profile Visitors](https://visitcount.itsvg.in/api?id=FarahIbrar&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+I'm Farah Ibrar, originally from the United Kingdom. I hold a BSc in Biomedical Sciences (Hons) and recently completed my MSc in Biomedical Sciences (Immunology) from the University of Westminster, London. 
+
 ---
 
    </p>
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/farah-ibrar-a013b51a9" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:center" /></a>
 <a href="mailto:farah11ibrar@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
 <a href="https://public.tableau.com/app/profile/farah.ibrar/vizzes" target="_blank"><img alt="" src="https://img.shields.io/badge/Tableau-005F86?style=for-the-badge&logo=tableau&logoColor=white" style="vertical-align:center" /></a>
 <a href="https://github.com/FarahIbrar/FarahIbrar/blob/main/CV/CV%20-%20Farah%20Ibrar.pdf" target="_blank"><img alt="Email" src="https://img.shields.io/badge/CV/Resume-teal?style=for-the-badge&logo=microsoft-word&logoColor=white" style="vertical-align:center" /></a>
-<a href="https://visitcount.itsvg.in" target="_blank"><img src="https://visitcount.itsvg.in/api?id=FarahIbrar&label=Profile%20Views&color=6&icon=0&pretty=false" /></a>
-</p>
-
----
-
-# <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/About%20me.gif" alt="female" aria-hidden="true" width="40" height="40" /> About Me
-I'm Farah Ibrar, originally from the United Kingdom. I hold a BSc in Biomedical Sciences (Hons) and recently completed my MSc in Biomedical Sciences (Immunology) from the University of Westminster, London.
 
 ---
 
@@ -253,7 +248,7 @@ I advocate for a healthy, busy lifestyle and thrive on continuous learning and n
 ## <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/code.gif" alt="Code" width="30" height="30" /> **My Outlier Detection Script**
 
 <details>
-  <summary> Click 🔽 to expand! </summary>
+  <summary> Click 🔽 to view the code! </summary>
   
   - I developed this Python script to automate outlier detection using the Interquartile Range (IQR) method—a robust statistical technique widely used in data analysis. 
   - Outliers are data points that significantly differ from other observations and can skew statistical analyses. 
@@ -287,12 +282,18 @@ I advocate for a healthy, busy lifestyle and thrive on continuous learning and n
 
 ---
 
-# 😎 Fun Facts About Me: 
+# 😎 Fun Facts About Me:
+<details>
+  <summary> Click 🔽 to expand! </summary> 
 - **Multilingual**: Fluent in 4 languages—English, Urdu, Punjabi, and Hindi.
 - **Achievements**: Best Progress Award (2019 & 2020), Rochdale School's Badminton Championship Winner (2019), Sports (Cricket and Badminton) Achievements - Secondary School, Best Handwriting Award, State Level Urdu Competition.
 - **Humor**: I love sharing a good laugh! Check out a tech meme below!
-
+<details>
+   
 ---
+
+[![My Profile Visitors](https://visitcount.itsvg.in/api?id=FarahIbrar&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 
 <img src="https://raw.githubusercontent.com/FarahIbrar/FarahIbrar/output/snake.svg" alt="Snake animation" />
 
