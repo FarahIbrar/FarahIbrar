@@ -1,4 +1,4 @@
-![Farah Ibrar's Github Banner](https://github.com/FarahIbrar/FarahIbrar/blob/main/GitHub%20Poster.png)
+![Farah Ibrar's Github Banner](https://github.com/FarahIbrar/FarahIbrar/blob/main/Data%20Analyst%20-%20Farah%20Ibrar.png)
 [![My Profile Visitors](https://visitcount.itsvg.in/api?id=FarahIbrar&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 ---
 
