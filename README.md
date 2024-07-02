@@ -8,12 +8,12 @@ I'm Farah Ibrar, originally from the United Kingdom. I hold a BSc in Biomedical 
 
 ---
 
-# <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/personal_interest.gif" alt="Interests" aria-hidden="true" width="40" height="40" /> Professional Interests
+## <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/personal_interest.gif" alt="Interests" aria-hidden="true" width="40" height="40" /> Professional Interests
 My academic path sparked a deep interest in data analytics, visualization, and technology, particularly through bioinformatics and R. My Master's final project in Data Science focused on innovating database storage solutions for OMICS data solidified my passion. Since then, I have been actively enhancing my skills in data&tech. Currently, I'm advancing my skills in programming and data analysis through a **Python** course with **CFG** powered by **Activision**.
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools**  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools**  
 
 <div style="display: flex; align-items: flex-start; justify-content: center">
   <table align="center">
@@ -138,7 +138,7 @@ My academic path sparked a deep interest in data analytics, visualization, and t
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> GitHub Stats 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> GitHub Stats 
 
 <p align="center">
 <a href="https://git.io/streak-stats">
@@ -194,7 +194,7 @@ This [Python script](https://github.com/FarahIbrar/FarahIbrar/blob/main/Outlier%
 
 ---
 
-# ✨ Personal Interests
+## ✨ Personal Interests
 I advocate for a healthy, busy lifestyle and thrive on continuous learning and new challenges. Motivational quotes keep me focused and driven, fueling my passion for growth and inspiration.
 
 <p align="center">
@@ -270,7 +270,7 @@ I advocate for a healthy, busy lifestyle and thrive on continuous learning and n
 
 ---
 
-# <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/lock.gif" alt="Lock" aria-hidden="true" width="40" height="40" /> Fun Facts About Me
+## <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/lock.gif" alt="Lock" aria-hidden="true" width="40" height="40" /> Fun Facts About Me
 <details>
   <summary> Click to find out more!</summary> 
   <ul>
