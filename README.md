@@ -1,5 +1,5 @@
 ![Farah Ibrar's Github Banner](https://github.com/FarahIbrar/FarahIbrar/blob/main/GitHub%20Poster.png)
-
+[![My Profile Visitors](https://visitcount.itsvg.in/api?id=FarahIbrar&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 ---
 
    </p>
@@ -8,6 +8,7 @@
 <a href="mailto:farah11ibrar@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
 <a href="https://public.tableau.com/app/profile/farah.ibrar/vizzes" target="_blank"><img alt="" src="https://img.shields.io/badge/Tableau-005F86?style=for-the-badge&logo=tableau&logoColor=white" style="vertical-align:center" /></a>
 <a href="https://github.com/FarahIbrar/FarahIbrar/blob/main/CV/CV%20-%20Farah%20Ibrar.pdf" target="_blank"><img alt="Email" src="https://img.shields.io/badge/CV/Resume-teal?style=for-the-badge&logo=microsoft-word&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://visitcount.itsvg.in" target="_blank"><img src="https://visitcount.itsvg.in/api?id=FarahIbrar&label=Profile%20Views&color=6&icon=0&pretty=false" /></a>
 </p>
 
 ---
@@ -291,12 +292,10 @@ I advocate for a healthy, busy lifestyle and thrive on continuous learning and n
 - **Achievements**: Best Progress Award (2019 & 2020), Rochdale School's Badminton Championship Winner (2019), Sports (Cricket and Badminton) Achievements - Secondary School, Best Handwriting Award, State Level Urdu Competition.
 - **Humor**: I love sharing a good laugh! Check out a tech meme below!
 
-<img src="https://raw.githubusercontent.com/FarahIbrar/FarahIbrar/output/snake.svg" alt="Snake animation" />
-
 ---
 
-[![Profile views](https://visitcount.itsvg.in/api?id=FarahIbrar&icon=0&color=6)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=FarahIbrar&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
+<img src="https://raw.githubusercontent.com/FarahIbrar/FarahIbrar/output/snake.svg" alt="Snake animation" />
+
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=c88ad3&section=footer&reversal=false"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=c88ad3&section=footer&reversal=false"/>
 </p>
