@@ -63,7 +63,7 @@ My academic path sparked a deep interest in data analytics, visualization, and t
         <br>Anaconda
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="icon" width="40" height="40" />
+        <img src="https://github.com/FarahIbrar/FarahIbrar/assets/168878908/8211165e-4630-4bb4-af6e-d7996a144d00" alt="icon" width="40" height="40" />
         <br>VSCode
       </td>
       <td align="center" width="96">
