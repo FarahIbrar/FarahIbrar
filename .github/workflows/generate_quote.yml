@@ -1,0 +1,46 @@
+name: Generate Random Quote
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour, adjust as needed
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'  # Adjust as needed
+
+      - name: Install dependencies
+        run: npm install  # Assuming you have Node.js and npm
+
+      - name: Generate random quote
+        run: |
+          const fs = require('fs');
+          const quotes = require('../quotes.json');
+
+          // Function to get a random quote
+          function getRandomQuote() {
+              const randomIndex = Math.floor(Math.random() * quotes.length);
+              return quotes[randomIndex];
+          }
+
+          // Generate random quote
+          const randomQuote = getRandomQuote();
+          const markdownContent = `### Random Quote\n\n> "${randomQuote.quote}"\n\n- ${randomQuote.author}`;
+
+          // Write to file
+          fs.writeFileSync('./random_quote.md', markdownContent);
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add random_quote.md
+          git commit -m "Update random quote"
+          git push
