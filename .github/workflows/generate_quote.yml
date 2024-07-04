@@ -1,7 +1,7 @@
 name: Generate Random Quote
 
 on:
-  workflow_dispatch:  # Manually trigger workflow
+  workflow_dispatch:  # Allows manual triggering of the workflow
     inputs:
       runNow:
         description: 'Set to true to run the workflow immediately'
@@ -11,6 +11,8 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Grants the workflow permission to push changes
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
@@ -27,9 +29,11 @@ jobs:
         run: node quotes/generate_quote.js  # Adjust path if necessary
 
       - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add random_quote.md
           git commit -m "Update random quote"
-          git push
+          git push origin HEAD:main  # Adjust branch name if necessary
