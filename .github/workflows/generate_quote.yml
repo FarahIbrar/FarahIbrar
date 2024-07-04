@@ -17,25 +17,10 @@ jobs:
           node-version: '14'  # Adjust as needed
 
       - name: Install dependencies
-        run: npm install  # Assuming you have Node.js and npm
+        run: npm install
 
       - name: Generate random quote
-        run: |
-          const fs = require('fs');
-          const quotes = require('../quotes.json');
-
-          // Function to get a random quote
-          function getRandomQuote() {
-              const randomIndex = Math.floor(Math.random() * quotes.length);
-              return quotes[randomIndex];
-          }
-
-          // Generate random quote
-          const randomQuote = getRandomQuote();
-          const markdownContent = `### Random Quote\n\n> "${randomQuote.quote}"\n\n- ${randomQuote.author}`;
-
-          // Write to file
-          fs.writeFileSync('./random_quote.md', markdownContent);
+        run: node quotes/generate_quote.js  # Adjust path if necessary
 
       - name: Commit and push changes
         run: |
@@ -44,3 +29,4 @@ jobs:
           git add random_quote.md
           git commit -m "Update random quote"
           git push
+
