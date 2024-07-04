@@ -1,8 +1,12 @@
 name: Generate Random Quote
 
 on:
-  schedule:
-    - cron: '0 * * * *'  # Runs every hour, adjust as needed
+  workflow_dispatch:  # Manually trigger workflow
+    inputs:
+      runNow:
+        description: 'Set to true to run the workflow immediately'
+        required: false
+        default: 'true'  # Default to true to run immediately
 
 jobs:
   generate:
@@ -29,4 +33,3 @@ jobs:
           git add random_quote.md
           git commit -m "Update random quote"
           git push
-
