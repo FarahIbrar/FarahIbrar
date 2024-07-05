@@ -105,7 +105,7 @@ My academic path sparked a deep interest in data analytics, visualization, and t
         <br>Matplotlib
       </td>
       <td align="center" width="96">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn" />
+        <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/seaborn-seeklogo.svg" width="40" height="40" alt="Seaborn" />
         <br>Seaborn
       </td>
       <td align="center" width="96">
