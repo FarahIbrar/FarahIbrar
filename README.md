@@ -9,7 +9,7 @@ I'm Farah Ibrar, originally from the United Kingdom. I hold a BSc in Biomedical 
 ---
 
 ## <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/personal_interest.gif" alt="Interests" aria-hidden="true" width="40" height="40" /> Professional Interests
-My academic path sparked a deep interest in data analytics, visualization, and technology, particularly through bioinformatics and R. My Master's final project in Data Science focused on innovating database storage solutions for OMICS data solidified my passion. Since then, I have been actively enhancing my skills in data&tech. Currently, I'm advancing my skills in programming and data analysis through a **Python** course with **CFG** powered by **Activision**.
+My academic path sparked a deep interest in data analytics, visualization, and technology, particularly through Bioinformatics and R. My Master's final project in Data Science focused on innovating database storage solutions for OMICS data solidified my passion. Since then, I have been actively enhancing my skills in data&tech. Currently, I'm advancing my skills in programming and data analysis through a **Python** course with **CFG** powered by **Activision**.
 
 ---
 
@@ -195,7 +195,7 @@ This [Python script](https://github.com/FarahIbrar/FarahIbrar/blob/main/Outlier%
 ---
 
 ## ✨ Personal Interests
-I advocate for a healthy, busy lifestyle and thrive on continuous learning and new challenges. Motivational quotes keep me focused and driven, fueling my passion for growth and inspiration.
+I advocate for a healthy and busy lifestyle and thrive on continuous learning and new challenges. Motivational quotes keep me focused and driven, fueling my passion for growth and inspiration.
 
 <p align="center">
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
