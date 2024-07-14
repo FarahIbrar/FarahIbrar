@@ -17,7 +17,7 @@ Thank you for your time and consideration. I look forward to connecting with you
 - **Email:** [farah11ibrar@gmail.com](mailto:farah11ibrar@gmail.com)
 - **LinkedIn:** [Farah Ibrar](https://www.linkedin.com/in/farah-ibrar-a013b51a9/)
 - **Tableau Public:** [Farah Ibrar on Tableau](https://public.tableau.com/app/profile/farah.ibrar/vizzes)
-- **GitHub Portfolio:** [Farah Ibrar's Repositories](https://github.com/FarahIbrar?tab=repositories)
+- **GitHub Repositories:** [Farah Ibrar's Repositories](https://github.com/FarahIbrar?tab=repositories)
 
 Best regards,
 
