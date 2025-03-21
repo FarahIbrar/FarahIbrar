@@ -274,18 +274,12 @@ I embrace a healthy, dynamic lifestyle and thrive on continuous learning and new
 <details>
   <summary> Click to find out more!</summary> 
   <ul>
-    <li><strong>Multilingual</strong>: Fluent in 4 languages—English, Urdu, Punjabi, and Hindi.</li>
-    <li><strong>Achievements</strong>: Best Progress Award (2019 & 2020), Rochdale School's Badminton Championship Winner (2019), Sports (Cricket and Badminton) Achievements - Secondary School, Best Handwriting Award, State Level Urdu Competition.</li>
-    <li><strong>Creative Skills</strong>: I have a passion for calligraphy, excel in henna artistry, and can choreograph impressive dance routines.</li>
+    <li><strong>Multilingual</strong>: Fluent in English, Urdu, Punjabi, and Hindi.</li>
+    <li><strong>Achievements</strong>: Best Progress Award (2019 & 2020), Rochdale School's Badminton Champion (2019), Sports Achievements (Cricket & Badminton), Best Handwriting Award, State-Level Urdu Competition.</li>
+    <li><strong>Creative Skills</strong>: Passionate about calligraphy, henna artistry, choreography, and vision board curation.</li>
   </ul>
 </details>
 
 ---
 
 <img src="https://raw.githubusercontent.com/FarahIbrar/FarahIbrar/output/snake.svg" alt="Snake animation" />
-
----
-
-<a href="https://visitcount.itsvg.in" align="centre">
-  <img src="https://visitcount.itsvg.in/api?id=FarahIbrar&label=Profile%20Views&color=3&icon=0&pretty=false" />
-</a>
