@@ -195,7 +195,7 @@ This [Python script](https://github.com/FarahIbrar/FarahIbrar/blob/main/Outlier%
 ---
 
 ## ✨ Personal Interests
-I advocate for a healthy but busy lifestyle and thrive on continuous learning and new challenges. Motivational quotes keep me focused and driven, fueling my passion for growth and inspiration.
+I embrace a healthy, dynamic lifestyle and thrive on continuous learning and new challenges. Motivational quotes keep me focused and driven, fueling my passion for growth and self-improvement.
 
 <p align="center">
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
