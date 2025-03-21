@@ -1,6 +1,6 @@
 ![Farah Ibrar's Github Banner](https://github.com/FarahIbrar/FarahIbrar/blob/main/Data%20Analyst%20%7C%20Data%20Scientist%20-%20Farah%20Ibrar.png)
 
-I'm Farah Ibrar from the United Kingdom, with a BSc in Biomedical Sciences (Hons) and an MSc in Biomedical Sciences (Immunology) from the University of Westminster, London. I'm now transitioning into data analytics and data science, combining my analytical skills with a passion for data-driven problem-solving.
+I'm Farah Ibrar from the United Kingdom, with a BSc in Biomedical Sciences (Hons) and an MSc in Biomedical Sciences (Immunology) from the University of Westminster, London. Transitioning into data analytics and data science, I combine analytical skills with a passion for data-driven problem-solving.
 
 ---
 
