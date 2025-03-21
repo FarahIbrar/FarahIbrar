@@ -6,9 +6,10 @@ I'm Farah Ibrar from the United Kingdom, with a BSc in Biomedical Sciences (Hons
 
 ## 🤝🏻 Connect with Me: <a href="https://linkedin.com/in/farah-ibrar-a013b51a9" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:center" /></a> <a href="mailto:farah11ibrar@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a> <a href="https://public.tableau.com/app/profile/farah.ibrar/vizzes" target="_blank"><img alt="" src="https://img.shields.io/badge/Tableau-005F86?style=for-the-badge&logo=tableau&logoColor=white" style="vertical-align:center" /></a> <a href="https://github.com/FarahIbrar/FarahIbrar/blob/main/CV/Farah%20Ibrar%20-%20CV.pdf" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/CV/Resume-teal?style=for-the-badge&logo=microsoft-word&logoColor=white" style="vertical-align:center" />
 
+---
 
 ## <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/personal_interest.gif" alt="Interests" aria-hidden="true" width="40" height="40" /> Professional Interests
-My academic path sparked a deep interest in data analytics, visualization, and technology, particularly through Bioinformatics and R. My Master's final project in Data Science focused on innovating database storage solutions for OMICS data solidified my passion. Since then, I have been actively enhancing my skills in data&tech. Currently, I'm advancing my skills in programming and data analysis through **Self-learning** and **Online Courses**.
+My academic journey sparked a strong interest in data analytics, visualization, and technology, particularly through Bioinformatics and R. During my Master's, my Data Science project on relational database storage for OMICS data solidified this passion. Since then, I have been actively expanding my expertise in data and technology, advancing my programming and data analysis skills through **self-learning** and **online courses**.
 
 ---
 
