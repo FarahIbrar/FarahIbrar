@@ -1,16 +1,16 @@
-# Farah Ibrar - Data Analytics Enthusiast
+# Farah Ibrar - Data Scientist
 
-Hello,
+Welcome, and thank you for visiting.
 
-I am excited to share that I am currently seeking new employment opportunities in the field of data analytics. I invite you to explore my CV, where you will find detailed information about my professional background, skills, and experiences.
+I’m Farah Ibrar, a data science professional with a strong foundation in predictive modelling, statistical analysis, natural language processing (NLP), and advanced machine learning techniques.  I also enjoy building meaningful dashboards and data visualisations that communicate insights clearly and effectively using Tableau and Python.
 
-I have a passion for data analytics and am enthusiastic about leveraging data to drive impactful insights and decisions. Though my background is diverse, I can assure you that taking a chance on me would never be a mistake. I am adept at getting the work done efficiently and effectively, and I am always eager to learn and expand my skillset.
+My approach is grounded in extracting actionable insights from complex datasets, with a strong focus on commercial application and customer behaviour. I am particularly interested in data-driven storytelling that supports strategic decision-making, such as customer segmentation, propensity modelling, and campaign evaluation.
 
-My commitment to continuous learning and self-improvement means I am always engaging with new and interesting challenges. I take pride in keeping myself busy with meaningful activities, ensuring I can bring substantial value to any team or project.
+With an academic background in Biomedical Sciences and Immunology, I bring a unique interdisciplinary perspective to data science. My transition from research to analytics has equipped me with robust problem-solving skills, attention to detail, and a passion for deriving insight from evidence.
 
-For a comprehensive overview of my experience, skills, achievements, and more, please explore my CV uploaded in this folder.
+If you would like to connect, collaborate on a project, have a challenge in mind, or simply discuss ideas in the data space, feel free to get in touch. I am always open to new opportunities and meaningful conversations.
 
-Thank you for your time and consideration. I look forward to connecting with you and discussing how I can contribute to your organization.
+Thank you for your time and consideration. 
 
 ## Contact Information
 
