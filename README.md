@@ -136,6 +136,18 @@ My academic journey sparked a strong interest in data analytics, visualization, 
   </table>
 </div>
 
+
+---
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,seaborn,sklearn,tensorflow,pandas,numpy,matplotlib,docker,pytorch,pycharm"/> 
+    <br/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,sqlite,r,tableau,vscode,anaconda,git,github,aws,azure"/>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,bootstrap,figma" /><br/> 
+</p>
+
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> GitHub Stats
