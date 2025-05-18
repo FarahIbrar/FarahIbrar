@@ -145,7 +145,7 @@ My academic journey sparked a strong interest in data analytics, visualization, 
     <br/>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,sqlite,r,tableau,vscode,anaconda,git,github,aws,azure"/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,bootstrap,figma" /><br/> 
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,bootstrap,figma,canva" /><br/> 
 </p>
 
 ---
