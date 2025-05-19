@@ -6,6 +6,19 @@ I'm Farah Ibrar from the United Kingdom, with a BSc in Biomedical Sciences (Hons
 
 ## 🤝🏻 Connect with Me: <a href="https://linkedin.com/in/farah-ibrar-a013b51a9" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:center" /></a> <a href="mailto:farah11ibrar@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a> <a href="https://public.tableau.com/app/profile/farah.ibrar/vizzes" target="_blank"><img alt="" src="https://img.shields.io/badge/Tableau-005F86?style=for-the-badge&logo=tableau&logoColor=white" style="vertical-align:center" /></a> <a href="https://github.com/FarahIbrar/FarahIbrar/blob/main/CV/Farah%20Ibrar%20-%20CV.pdf" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/CV/Resume-teal?style=for-the-badge&logo=microsoft-word&logoColor=white" style="vertical-align:center" />
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://www.linkedin.com/in/farah-ibrar/?originalSubdomain=uk" alt="LinkedIn" height="40"/>
+  </a>
+  <a href="mailto:farah11ibrar@gmail.com" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Gmail" height="40"/>
+  </a>
+  <a href="https://public.tableau.com/app/profile/farah.ibrar/vizzes" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=tableau" alt="Tableau" height="40"/>
+  </a>
+</p>
+
+
 ---
 
 ## <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/personal_interest.gif" alt="Interests" aria-hidden="true" width="40" height="40" /> Professional Interests
