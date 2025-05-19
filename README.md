@@ -4,138 +4,19 @@ I'm Farah Ibrar from the United Kingdom, with a BSc in Biomedical Sciences (Hons
 
 ---
 
-## 🤝🏻 Connect with Me: <a href="https://linkedin.com/in/farah-ibrar-a013b51a9" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:center" /></a> <a href="mailto:farah11ibrar@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a> <a href="https://public.tableau.com/app/profile/farah.ibrar/vizzes" target="_blank"><img alt="" src="https://img.shields.io/badge/Tableau-005F86?style=for-the-badge&logo=tableau&logoColor=white" style="vertical-align:center" /></a> <a href="https://github.com/FarahIbrar/FarahIbrar/blob/main/CV/Farah%20Ibrar%20-%20CV.pdf" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/CV/Resume-teal?style=for-the-badge&logo=microsoft-word&logoColor=white" style="vertical-align:center" />
+## 🤝🏻 Connect with Me: 
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img align="centre" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn" height="45" width="45" /></a>
+  <a href="mailto:your-email@gmail.com" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" align="centre" alt="Gmail" height="45" width="45" /></a>
+  <a href="https://public.tableau.com/app/profile/your-profile" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=tableau" align="centre" alt="Tableau" height="45" width="45" />
+  <a href="https://x.com/Farahibrar_" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=x" align="centre" alt="Tableau" height="45" width="45" />
+  </a>
+</p>
 
 ---
 
 ## <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/personal_interest.gif" alt="Interests" aria-hidden="true" width="40" height="40" /> Professional Interests
 My academic journey sparked a strong interest in data analytics, visualization, and technology, particularly through Bioinformatics and R. During my Master's, my Data Science project on relational database storage for OMICS data solidified this passion. Since then, I have been actively expanding my expertise in data and technology, advancing my programming and data analysis skills through **self-learning** and **online courses**.
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools**  
-
-<div style="display: flex; align-items: flex-start; justify-content: center">
-  <table align="center">
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.python.org/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="icon" width="50" height="50" />
-        </a>
-        <br>RStudio
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-        <br>MySQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" />
-        <br>PostgreSQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" width="50" height="50" alt="PHP" />
-        <br>SPSS
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" />
-        <br>HTML5
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS" />
-        <br>CSS
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="icon" width="50" height="50" />
-        <br>Tableau
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="icon" width="50" height="50" />
-        <br>Anaconda
-      </td>
-      <td align="center" width="96">
-        <img src="https://github.com/FarahIbrar/FarahIbrar/assets/168878908/8211165e-4630-4bb4-af6e-d7996a144d00" alt="icon" width="50" height="50" />
-        <br>VSCode
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="icon" width="50" height="50" />
-        <br>Jupyter
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-        <br>Github
-      </td>
-      <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50" height="50" alt="Git" />
-        <br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Nodejs" />
-        <br>Nodejs
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="50" height="50" alt="NumPy" />
-        <br>NumPy
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="50" height="50" alt="Pandas" />
-        <br>Pandas
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-Learn" />
-        <br>Sklearn
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="Pytorch" />
-        <br>Pytorch
-      </td>
-      <td align="center" width="96">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib" />
-        <br>Matplotlib
-      </td>
-      <td align="center" width="96">
-        <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/seaborn-seeklogo.svg" width="50" height="50" alt="Seaborn" />
-        <br>Seaborn
-      </td>
-      <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" height="50" alt="TensorFlow" />
-        <br>TensorFlow
-      </td>
-      <td align="center" width="96">
-        <img src="https://github.com/dochne/wappalyzer/blob/main/src/images/icons/Docker.svg" width="50" height="50" alt="Docker" />
-        <br>Docker
-      </td>
-      <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="SpaCy" width="50" height="50" />
-        <br>SpaCy
-      </td>
-      <td align="center" width="96">
-        <img src="https://github.com/get-icon/geticon/blob/master/icons/pycharm.svg" width="50" height="50" alt="PyCharm" />
-        <br>PyCharm
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/canva/00C4CC" width="50" height="50" alt="Canva" />
-        <br>Canva
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
-        <br>Figma
-      </td>
-    </tr>
-  </table>
-</div>
-
 
 ---
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools** 
