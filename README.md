@@ -22,7 +22,7 @@ My academic journey sparked a strong interest in data analytics, visualization, 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools** 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,seaborn,sklearn,tensorflow,pandas,numpy,matplotlib,docker,pytorch,scipy,pycharm,jupyter,mysql,postgresql,sqlite,r,tableau,vscode,anaconda,git,github,aws,azure,html,css,js,nodejs,bootstrap,figma,canva"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,seaborn,sklearn,tensorflow,pandas,numpy,matplotlib,docker,pytorch,scipy,pycharm,jupyter,mysql,postgresql,sqlite,r,tableau,vscode,anaconda,git,github,githubpages,aws,azure,html,css,js,nodejs,bootstrap,figma,canva"/>
 </p>
 
 ---
