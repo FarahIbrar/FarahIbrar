@@ -6,10 +6,10 @@ I'm Farah Ibrar from the United Kingdom, with a BSc in Biomedical Sciences (Hons
 
 ## 🤝🏻 Connect with Me: 
 <p align="left">
+    <a href="https://public.tableau.com/app/profile/farah.ibrar/vizzes" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubpages" align="centre" alt="githubpages" height="45" width="45" /></a>
   <a href="https://www.linkedin.com/in/farah-ibrar-a013b51a9/" target="_blank"><img align="centre" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn" height="45" width="45" /></a>
   <a href="mailto:farah11ibrar@gmail.com" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" align="centre" alt="Gmail" height="45" width="45" /></a>
   <a href="https://public.tableau.com/app/profile/farah.ibrar/vizzes" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=tableau" align="centre" alt="Tableau" height="45" width="45" /></a>
-  <a href="https://public.tableau.com/app/profile/farah.ibrar/vizzes" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubpages" align="centre" alt="githubpages" height="45" width="45" /></a>
   <a href="https://x.com/Farahibrar_" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=x" align="centre" alt="x" height="45" width="45" />
   </a>
 </p>
