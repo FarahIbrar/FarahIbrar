@@ -58,6 +58,9 @@ My academic journey sparked a strong interest in data analytics, visualization, 
 ## <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/code.gif" alt="Code" width="30" height="30" /> **My Outlier Detection Script**
 This [Python script](https://github.com/FarahIbrar/FarahIbrar/blob/main/Outlier%20Detection%20Script.md) automates outlier detection using the Interquartile Range (IQR) method, a robust statistical technique. By calculating the IQR and defining upper and lower bounds, it identifies significant anomalies in datasets. This streamlines data cleaning, ensuring more accurate and reliable analysis.
 
+<details>
+<summary> Click to view my Outlier Detection Code!</summary> 
+    
   ```python
   import numpy as np
 
@@ -82,94 +85,7 @@ This [Python script](https://github.com/FarahIbrar/FarahIbrar/blob/main/Outlier%
           print("No outliers detected.")
 ```
 
----
-
-## ✨ Personal Interests
-I embrace a healthy, dynamic lifestyle and thrive on continuous learning and new challenges. Motivational quotes keep me focused and driven, fueling my passion for growth and self-improvement.
-
-<p align="center">
-    <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true" alt="Readme Quotes">
-    </a>
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/FarahIbrar" target="_blank">
-        <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/Cricket.gif" alt="Cricket" width="45" height="45" style="margin-right: 10px;" />
-      </a>
-      <br>Cricket
-    </td>
-    <td align="center">
-      <a href="https://github.com/FarahIbrar" target="_blank">
-        <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/Badminton-sports.gif" alt="Badminton" width="45" height="45" style="margin-right: 10px;" />
-      </a>
-      <br>Badminton
-    </td>
-    <td align="center">
-      <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
-        <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/Cooking.gif" alt="Cooking" width="45" height="45" style="margin-right: 10px;" />
-      </a>
-      <br>Cooking
-    </td>
-    <td align="center">
-      <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
-        <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/book.gif" alt="Reading" width="45" height="45" style="margin-right: 10px;" />
-      </a>
-      <br>Reading
-    </td>
-    <td align="center">
-      <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
-        <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/travel.gif" alt="Travel" width="45" height="45" style="margin-right: 10px;" />
-      </a>
-      <br>Travelling
-    </td>
-    <td align="center">
-      <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
-        <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/busy.gif" alt="Busy" width="45" height="45" style="margin-right: 10px;" />
-      </a>
-      <br>Productive
-    </td>
-    <td align="center">
-      <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
-        <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/training.gif" alt="Training" width="45" height="45" style="margin-right: 10px;" />
-      </a>
-      <br>Training
-    </td>
-    <td align="center">
-      <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
-        <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/music.gif" alt="Music" width="45" height="45" style="margin-right: 10px;" />
-      </a>
-      <br>Music
-    </td>
-    <td align="center">
-      <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
-        <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/dance.gif" alt="Dance" width="45" height="45" style="margin-right: 10px;" />
-      </a>
-      <br>Dancing
-    </td>
-    <td align="center">
-      <a href="https://www.flaticon.com/free-animated-icons" target="_blank">
-        <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/artificial-intelligence.gif" alt="AI" width="45" height="45" style="margin-right: 10px;" />
-      </a>
-      <br>AI
-    </td>
-  </tr>
-</table>
-
----
-
-## <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/lock.gif" alt="Lock" aria-hidden="true" width="40" height="40" /> Fun Facts About Me
-<details>
-  <summary> Click to find out more!</summary> 
-  <ul>
-    <li><strong>Multilingual</strong>: Fluent in English, Urdu, Punjabi, and Hindi.</li>
-    <li><strong>Achievements</strong>: Best Progress Award (2019 & 2020), Rochdale School's Badminton Champion (2019), Sports Achievements (Cricket & Badminton), Best Handwriting Award, State-Level Urdu Competition.</li>
-    <li><strong>Creative Skills</strong>: Passionate about calligraphy, henna artistry, choreography, and vision board curation.</li>
-  </ul>
 </details>
 
----
 
 <img src="https://raw.githubusercontent.com/FarahIbrar/FarahIbrar/output/snake.svg" alt="Snake animation" />
