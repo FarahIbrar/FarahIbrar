@@ -40,8 +40,7 @@ My academic journey sparked a strong interest in data analytics, visualization, 
 
 <div style="display: flex;">
   <a href="https://github.com/FarahIbrar" style="flex: 1; margin-right: 10px;">
-    <img height="190" src="https://github-readme-stats.vercel.app/api?username=FarahIbrar&card_width=200&bg_color=0D1117&text_color=ffffff&icon_color=a06cd5&title_color=9370db&show_icons=true&hide_border=true&hide_title=false" />
-  </a>
+    <img height="190" src="https://github-readme-stats.vercel.app/api?username=FarahIbrar&card_width=200&bg_color=0D1117&text_color=ffffff&icon_color=a06cd5&title_color=9370db&show_icons=true&hide_border=true&hide_title=false" /></a>
   <a href="https://github.com/FarahIbrar" style="flex: 1;">
     <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarahIbrar&layout=compact&card_width=200&langs_count=8&bg_color=0D1117&text_color=ffffff&title_color=9370db&hide_border=true" />
   </a>
