@@ -1,6 +1,10 @@
 ![Farah Ibrar's Github Banner](https://github.com/FarahIbrar/FarahIbrar/blob/main/Data%20Scientist%20-%20Farah%20Ibrar.png)
 
-I'm Farah Ibrar from the United Kingdom, with a BSc in Biomedical Sciences (Hons) and an MSc in Biomedical Sciences (Immunology) from the University of Westminster, London. Transitioning into data analytics and data science, I combine analytical skills with a passion for data-driven problem-solving.
+## <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/personal_interest.gif" alt="Interests" aria-hidden="true" width="40" height="40" /> About Me
+
+I'm Farah Ibrar, a self-taught Data Scientist at [dunnhumby](https://www.dunnhumby.com/about-us/), based in London, with an academic background in Biomedical Sciences and Immunology (BSc Hons and MSc, University of Westminster). I began my journey in research, but a passion for evidence-based problem solving led me to data science. My transition into this field brings an interdisciplinary edge, combining scientific rigor with commercial insight, strategic thinking, and a strong attention to detail.
+
+I specialize in predictive modelling, statistical analysis, machine learning, and natural language processing (NLP). I work primarily with Python and SQL for data analysis and modelling, and use Tableau to build clear, compelling visualizations that make insights accessible and actionable. Whether it’s customer segmentation, propensity modelling, or campaign evaluation, my focus is on surfacing insights that inform strategy and drive meaningful business outcomes.
 
 ---
 
@@ -16,10 +20,6 @@ I'm Farah Ibrar from the United Kingdom, with a BSc in Biomedical Sciences (Hons
 
 ---
 
-## <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/personal_interest.gif" alt="Interests" aria-hidden="true" width="40" height="40" /> Professional Interests
-My academic journey sparked a strong interest in data analytics, visualization, and technology, particularly through Bioinformatics and R. During my Master's, my Data Science project on relational database storage for OMICS data solidified this passion. Since then, I have been actively expanding my expertise in data and technology, advancing my programming and data analysis skills through **self-learning** and **online courses**.
-
----
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools** 
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
