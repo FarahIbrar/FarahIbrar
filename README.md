@@ -1,15 +1,5 @@
 ![Farah Ibrar's Github Banner](https://github.com/FarahIbrar/FarahIbrar/blob/main/Data%20Scientist%20-%20Farah%20Ibrar.png)
 
-<p align="left">
-    <a href="https://farahibrar.github.io/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubpages" align="centre" alt="githubpages" height="60" width="60" /></a>
-  <a href="https://www.linkedin.com/in/farah-ibrar-a013b51a9/" target="_blank"><img align="centre" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn" height="65" width="65" /></a>
-  <a href="mailto:farah11ibrar@gmail.com" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" align="centre" alt="Gmail" height="60" width="60" /></a>
-  <a href="https://public.tableau.com/app/profile/farah.ibrar/vizzes" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=tableau" align="centre" alt="Tableau" height="65" width="65" /></a>
-  <a href="https://x.com/Farahibrar_" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=x" align="centre" alt="x" height="60" width="60" />
-  </a>
-</p>
-
-
 ## <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/personal_interest.gif" alt="Interests" aria-hidden="true" width="40" height="40" /> About Me
 
 I'm Farah Ibrar, a self-taught Data Scientist at [dunnhumby](https://www.dunnhumby.com/about-us/), based in London, with an academic background in Biomedical Sciences and Immunology (BSc Hons and MSc, University of Westminster). I began my journey in research, but a passion for evidence-based problem solving led me to data science. My transition into this field brings an interdisciplinary edge, combining scientific rigor with commercial insight, strategic thinking, and a strong attention to detail.
