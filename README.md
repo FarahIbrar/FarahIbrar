@@ -1,19 +1,13 @@
 ![Farah Ibrar's Github Banner](https://github.com/FarahIbrar/FarahIbrar/blob/main/Data%20Scientist%20-%20Farah%20Ibrar.png)
 
-## 🤝🏻 Connect with Me  
-
-<div align="center">
-  <a href="https://farahibrar.github.io/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=githubpages" alt="GitHub Pages" width="70" height="70"></a>
-  <a href="https://www.linkedin.com/in/farah-ibrar-a013b51a9/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn" width="70" height="70"></a>
-  <a href="mailto:farah11ibrar@gmail.com" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Gmail" width="70" height="70"></a>
-  <a href="https://public.tableau.com/app/profile/farah.ibrar/vizzes" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=tableau" alt="Tableau" width="70" height="70"></a>
-  <a href="https://x.com/Farahibrar_" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=x" alt="X" width="70" height="70"></a>
-</div>
+<p align="left">
+    <a href="https://farahibrar.github.io/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubpages" align="centre" alt="githubpages" height="60" width="60" /></a>
+  <a href="https://www.linkedin.com/in/farah-ibrar-a013b51a9/" target="_blank"><img align="centre" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn" height="65" width="65" /></a>
+  <a href="mailto:farah11ibrar@gmail.com" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" align="centre" alt="Gmail" height="60" width="60" /></a>
+  <a href="https://public.tableau.com/app/profile/farah.ibrar/vizzes" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=tableau" align="centre" alt="Tableau" height="65" width="65" /></a>
+  <a href="https://x.com/Farahibrar_" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=x" align="centre" alt="x" height="60" width="60" />
+  </a>
+</p>
 
 
 ## <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/personal_interest.gif" alt="Interests" aria-hidden="true" width="40" height="40" /> About Me
