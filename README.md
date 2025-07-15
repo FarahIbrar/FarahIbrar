@@ -7,7 +7,7 @@ I'm Farah Ibrar, a self-taught Data Scientist at [dunnhumby](https://www.dunnhum
 I specialize in predictive modelling, statistical analysis, machine learning, and natural language processing (NLP). I work primarily with Python and SQL for data analysis and modelling, and use Tableau to build clear, compelling visualizations that make insights accessible and actionable. Whether it’s customer segmentation, propensity modelling, or campaign evaluation, my focus is on surfacing insights that inform strategy and drive meaningful business outcomes.
 
 
-## 🤝🏻 Connect with Me: 
+## 🤝🏻 Let's make it work: 
 <p align="left">
     <a href="https://farahibrar.github.io/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubpages" align="centre" alt="githubpages" height="45" width="45" /></a>
   <a href="https://www.linkedin.com/in/farah-ibrar-a013b51a9/" target="_blank"><img align="centre" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn" height="45" width="45" /></a>
