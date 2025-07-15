@@ -24,30 +24,6 @@ I specialize in predictive modelling, statistical analysis, machine learning, an
     <img src="https://go-skill-icons.vercel.app/api/icons?i=python,seaborn,sklearn,tensorflow,pandas,numpy,matplotlib,docker,pytorch,scipy,pycharm,jupyter,mysql,postgresql,sqlite,r,tableau,vscode,anaconda,git,github,aws,azure,html,css,js,nodejs,bootstrap,figma,canva"/>
 </p>
 
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> GitHub Stats
-
-<p align="center">
-<a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=FarahIbrar&theme=modern-lilac2&hide_border=true&border_radius=&date_format=n%2Fj%5B%2FY%5D&card_width=1000&card_height=200" alt="GitHub Streak" />
-</a>
-</p>
-
-
-<div style="display: flex;">
-  <a href="https://github.com/FarahIbrar" style="flex: 1; margin-right: 10px;">
-    <img height="190" src="https://github-readme-stats.vercel.app/api?username=FarahIbrar&card_width=200&bg_color=0D1117&text_color=ffffff&icon_color=a06cd5&title_color=9370db&show_icons=true&hide_border=true&hide_title=false" /></a>
-  <a href="https://github.com/FarahIbrar" style="flex: 1;">
-    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarahIbrar&layout=compact&card_width=200&langs_count=8&bg_color=0D1117&text_color=ffffff&title_color=9370db&hide_border=true" />
-  </a>
-</div>
-
-
-<div style="width: 80%; margin-bottom: 40px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarahIbrar&radius=16&theme=tokyo-night&area=true&order=5&hide_title=true&bg_color=0D1117&color=9370db&line=8660d6&point=C3C3E5&area_color=D3BBDD&hide_border=true" style="width: 100%; height: auto;" alt="Contribution Graph" />
-</div>
-
-
 ## <img src="https://github.com/FarahIbrar/FarahIbrar/blob/main/gifs/code.gif" alt="Code" width="30" height="30" /> **My Outlier Detection Script**
 This [Python script](https://github.com/FarahIbrar/FarahIbrar/blob/main/Outlier%20Detection%20Script.md) automates outlier detection using the Interquartile Range (IQR) method, a robust statistical technique. By calculating the IQR and defining upper and lower bounds, it identifies significant anomalies in datasets. This streamlines data cleaning, ensuring more accurate and reliable analysis.
 
@@ -80,5 +56,26 @@ This [Python script](https://github.com/FarahIbrar/FarahIbrar/blob/main/Outlier%
 
 </details>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> GitHub Stats
+
+<p align="center">
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=FarahIbrar&theme=modern-lilac2&hide_border=true&border_radius=&date_format=n%2Fj%5B%2FY%5D&card_width=1000&card_height=200" alt="GitHub Streak" />
+</a>
+</p>
+
+
+<div style="display: flex;">
+  <a href="https://github.com/FarahIbrar" style="flex: 1; margin-right: 10px;">
+    <img height="190" src="https://github-readme-stats.vercel.app/api?username=FarahIbrar&card_width=200&bg_color=0D1117&text_color=ffffff&icon_color=a06cd5&title_color=9370db&show_icons=true&hide_border=true&hide_title=false" /></a>
+  <a href="https://github.com/FarahIbrar" style="flex: 1;">
+    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarahIbrar&layout=compact&card_width=200&langs_count=8&bg_color=0D1117&text_color=ffffff&title_color=9370db&hide_border=true" />
+  </a>
+</div>
+
+
+<div style="width: 80%; margin-bottom: 40px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarahIbrar&radius=16&theme=tokyo-night&area=true&order=5&hide_title=true&bg_color=0D1117&color=9370db&line=8660d6&point=C3C3E5&area_color=D3BBDD&hide_border=true" style="width: 100%; height: auto;" alt="Contribution Graph" />
+</div>
 
 <img src="https://raw.githubusercontent.com/FarahIbrar/FarahIbrar/output/snake.svg" alt="Snake animation" />
