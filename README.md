@@ -4,7 +4,7 @@
 
 I'm Farah Ibrar, a self-taught Data Scientist at [dunnhumby](https://www.dunnhumby.com/about-us/), based in London, with an academic background in Biomedical Sciences and Immunology (BSc Hons and MSc, University of Westminster). I began my journey in research, but a passion for evidence-based problem solving led me to data science. My transition into this field brings an interdisciplinary edge, combining scientific rigor with commercial insight, strategic thinking, and a strong attention to detail.
 
-I specialize in predictive modelling, statistical analysis, machine learning, and natural language processing (NLP). I work primarily with Python and SQL for data analysis and modelling, and use Tableau to build clear, compelling visualizations that make insights accessible and actionable. Whether it’s customer segmentation, propensity modelling, or campaign evaluation, my focus is on surfacing insights that inform strategy and drive meaningful business outcomes.
+I have a strong interest in predictive modelling, statistical analysis, machine learning, and natural language processing (NLP). I work primarily with Python and SQL for data analysis and modelling, and use Tableau to build clear, compelling visualizations that make insights accessible and actionable. Whether it’s customer segmentation, propensity modelling, or campaign evaluation, my focus is on surfacing insights that inform strategy and drive meaningful business outcomes.
 
 
 ## 🤝🏻 Let's make it work: 
